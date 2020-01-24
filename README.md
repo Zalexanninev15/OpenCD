@@ -1,5 +1,6 @@
 # OpenCD
-## [Скачать последнюю версию](https://github.com/Zalexanninev15/OpenCD/releases/download/1.0/OpenCD.exe)
+## [Скачать последнюю версию](https://github.com/Zalexanninev15/OpenCD/releases/download/1.0/OpenCD.exe) | [ВСЕ ВЕРСИИ](https://github.com/Zalexanninev15/OpenCD/releases)
+## [Скачать исходники (ZIP)](https://github.com/Zalexanninev15/OpenCD/archive/master.zip)
 ## Скриншот
 ![alt text](https://i.imgur.com/iW4WwMT.jpg)
 ## Описание
