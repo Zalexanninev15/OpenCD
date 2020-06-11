@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("OpenCD")]
-[assembly: AssemblyCopyright("Copyright ©  2020, Zalexanninev15")]
+[assembly: AssemblyCopyright("GNU General Public License v3.0 by Zalexanninev15")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
