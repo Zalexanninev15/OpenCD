@@ -3,7 +3,7 @@
 ## [Скачать исходники (ZIP)](https://github.com/Zalexanninev15/OpenCD/archive/master.zip)
 
 ## Скриншот
-![alt text](https://i.imgur.com/iW4WwMT.jpg)
+![alt text](https://i.imgur.com/fszB3aC.png)
 
 ## Описание
 Простое приложения для открытия/закрытия "лотка" CD-ROM и DVD-ROM'ов.
