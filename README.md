@@ -1,5 +1,5 @@
 # OpenCD
-## [Скачать последнюю версию](https://github.com/Zalexanninev15/OpenCD/releases/download/1.0/OpenCD.exe)
+## [Скачать последнюю версию](https://github.com/Zalexanninev15/OpenCD/releases/tag/1.1)
 ## [Скачать исходники (ZIP)](https://github.com/Zalexanninev15/OpenCD/archive/master.zip)
 
 ## Скриншот
@@ -11,6 +11,7 @@
 ## Особенности
 * Приложение портативное и не требует установки
 * Простое открытие и закрытие "лотка" CD-ROM и DVD-ROM'ов
+* Есть возможность ввести букву дисковода или использовать автоопределение
 * Маленький размер
 * Невероятно простой интерфейс
 
