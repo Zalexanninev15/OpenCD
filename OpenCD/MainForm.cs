@@ -704,14 +704,14 @@ namespace OpenCD
 
         private void button1_Click(object sender, EventArgs e)
         {
-            mciSendString("open " + textBox1.Text.TrimEnd(':') + ": type CDAudio alias drive" + textBox1.Text.TrimEnd(':'), null, 0, IntPtr.Zero);
-            mciSendString("set drive" + textBox1.Text.TrimEnd(':') + " door open", null, 0, IntPtr.Zero);
+            mciSendString("open " + textBox1.Text + ": type CDAudio alias drive" + textBox1.Text, null, 0, IntPtr.Zero);
+            mciSendString("set drive" + textBox1.Text + " door open", null, 0, IntPtr.Zero);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            mciSendString("close " + textBox1.Text.TrimEnd(':') + ": type CDAudio alias drive" + textBox1.Text.TrimEnd(':'), null, 0, IntPtr.Zero);
-            mciSendString("set drive" + textBox1.Text.TrimEnd(':') + " door closed", null, 0, IntPtr.Zero);
+             mciSendString("open " + textBox1.Text + ": type CDAudio alias drive" + textBox1.Text, null, 0, IntPtr.Zero);
+             mciSendString("set drive" + textBox1.Text + " door closed", null, 0, IntPtr.Zero);
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -724,7 +724,7 @@ namespace OpenCD
             ManagementObjectSearcher mosDisks = new ManagementObjectSearcher("SELECT * FROM Win32_CDROMDrive");
             foreach (ManagementObject moDisk in mosDisks.Get())
             {
-                textBox1.Text = (moDisk["Drive"]).ToString();
+                textBox1.Text = Convert.ToString(moDisk["Drive"]);
             }
         }
     }
