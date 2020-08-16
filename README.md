@@ -17,3 +17,6 @@
 ## Системные требования
 * Операционная система: Windows XP/Vista/7/8/8.1/10
 * Дополнительно: Microsoft .NET Framework 2.0
+
+## Компиляция
+Компилируем используя Visual Studio 2017/2019 или SharpDevelop
