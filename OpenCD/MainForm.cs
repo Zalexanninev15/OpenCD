@@ -1,4 +1,4 @@
-﻿//GNU GENERAL PUBLIC LICENSE
+﻿//                     GNU GENERAL PUBLIC LICENSE
 //                       Version 3, 29 June 2007
 
 // Copyright(C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -716,7 +716,7 @@ namespace OpenCD
 
         private void button3_Click(object sender, EventArgs e)
         {
-             Process.Start("https://github.com/Zalexanninev15/OpenCD/");
+             Process.Start("https://github.com/Zalexanninev15/OpenCD");
         }
 
         private void MainForm_Load(object sender, EventArgs e)
