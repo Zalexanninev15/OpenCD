@@ -1,5 +1,5 @@
 # OpenCD
-## [Скачать последнюю версию](https://github.com/Zalexanninev15/OpenCD/releases/tag/1.1) | [Скачать исходники (ZIP)](https://github.com/Zalexanninev15/OpenCD/archive/master.zip)
+## [Скачать последнюю версию](https://github.com/Zalexanninev15/OpenCD/releases/tag/1.2) | [Скачать исходники (ZIP)](https://github.com/Zalexanninev15/OpenCD/archive/master.zip)
 
 ## Скриншот
 ![alt text](https://i.imgur.com/fszB3aC.png)
