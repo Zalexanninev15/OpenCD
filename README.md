@@ -19,4 +19,4 @@
 * Дополнительно: Microsoft .NET Framework 2.0
 
 ## Компиляция
-Компилируем используя Visual Studio 2017/2019 или SharpDevelop
+Компилируем используя [SharpDevelop](https://sourceforge.net/projects/sharpdevelop/)
