@@ -1,4 +1,18 @@
-# OpenCD | [Последняя версия](https://github.com/Zalexanninev15/OpenCD/releases/tag/1.2) | [Исходники (ZIP)](https://github.com/Zalexanninev15/OpenCD/archive/master.zip)
+# OpenCD | [Последняя версия](https://github.com/Zalexanninev15/OpenCD/releases/tag/1.2)
+
+<p>
+<a href="https://github.com/Zalexanninev15OpenCD/releases" target="_blank">
+      <img alt="All releases" src="https://img.shields.io/github/downloads/Zalexanninev15/OpenCD/total.svg?style=for-the-badge&logo=github" />
+    </a>    
+<a href="https://github.com/Zalexanninev15/OpenCD/releases/latest" target="_blank">
+      <img alt="Latest release" src="https://img.shields.io/github/downloads/Zalexanninev15/OpenCD/latest/total.svg?style=for-the-badge&logo=github" />
+    </a>    
+</p>
+<p>
+<a href="https://github.com/Zalexanninev15/OpenCD/blob/master/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/Zalexanninev15/OpenCD.svg?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ## Скриншот
 ![alt text](https://i.imgur.com/fszB3aC.png)
