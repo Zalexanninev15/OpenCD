@@ -9,7 +9,7 @@
 
 ## Скриншот
 
-![alt](https://i.imgur.com/fszB3aC.png)
+![](https://github.com/Zalexanninev15/OpenCD/blob/master/screenshot.png?raw=true)
 
 ## Описание
 
