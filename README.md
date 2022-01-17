@@ -1,7 +1,7 @@
 # OpenCD | [Последняя версия](https://github.com/Zalexanninev15/OpenCD/releases/latest)
  
 [![](https://img.shields.io/badge/OS-Windows-informational?logo=windows)](https://github.com/Zalexanninev15/OpenCD)
-[![](https://img.shields.io/badge/.NET-Framework_2.0_(3.5_SP1)-4E2ACD.svg)](https://dotnet.microsoft.com/download/dotnet-framework/net35-sp1)
+[![](https://img.shields.io/badge/written_on-.NET_Framework_2.0_(3.5_SP1)-512BD4.svg?logo=dotnet)](https://dotnet.microsoft.com/download/dotnet-framework/net35-sp1)
 [![](https://img.shields.io/github/v/release/Zalexanninev15/OpenCD)](https://github.com/Zalexanninev15/OpenCD/releases/latest)
 [![](https://img.shields.io/github/downloads/Zalexanninev15/OpenCD/total.svg)](https://github.com/Zalexanninev15/OpenCD/releases)
 [![](https://img.shields.io/github/last-commit/Zalexanninev15/OpenCD)](https://github.com/Zalexanninev15/OpenCD/commits/master)
